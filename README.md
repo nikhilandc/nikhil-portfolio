@@ -14,7 +14,7 @@
 
 > **"Every project I ship is an obsession over clean code, pixel-perfect UI, and blazing performance."**
 
-🌐 **[View Live →](https://your-portfolio.vercel.app)**
+🌐 **[View Live →]([https://your-portfolio.vercel.app](https://nikhil-portfolio-v1-chi.vercel.app/))**
 
 </div>
 
