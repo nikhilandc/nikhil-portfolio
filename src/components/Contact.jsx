@@ -223,7 +223,7 @@ export default function Contact() {
               </motion.button>
 
               <p className="font-mono text-[0.55rem] tracking-wide text-center" style={{ color:'var(--gray)' }}>
-                Powered by EmailJS · Replies within 24 hours
+                Replies within 24 hours
               </p>
             </form>
           </motion.div>
